@@ -1,0 +1,6 @@
+WARNING:root:test log - warning
+INFO:root:test log - info
+Level 25:root:25 level log
+custom logger - [01/05/2023  07:53:07 PM] :: ERROR :: This is an error log
+custom logger - [01/05/2023  07:53:07 PM] :: Level 38 :: This is a log with level 38
+custom logger - [01/05/2023  07:53:09 PM] :: ERROR :: logger now prints to the console
